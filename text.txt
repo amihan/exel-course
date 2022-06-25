@@ -1,0 +1,17 @@
+webpack (import/exports)
+    babel
+    Scss
+    Eslint - чистота кода
+    2 Modes
+        - Dev
+           Dev Server, SouseMaps, Eslint, Not Minified JS & CSS
+        - Prod
+           Minified Code
+Git
+
+    Production
+        1.0.0
+        0----------
+    Development
+        1.2.2
+        1--------------
